@@ -1,0 +1,356 @@
+loading data ...
+Using CUDA with 1 GPUs
+Validating
+
+Test set: Average loss: 1.7880, Accuracy: 298/1496 (19.92%)
+
+model saved to ./checkpoint/epoch_0_valid_loss=1.78797_ckpt.t7
+Validating
+
+Test set: Average loss: 1.7857, Accuracy: 290/1496 (19.39%)
+
+model saved to ./checkpoint/epoch_1_valid_loss=1.78571_ckpt.t7
+Validating
+
+Test set: Average loss: 1.7838, Accuracy: 251/1496 (16.78%)
+
+model saved to ./checkpoint/epoch_2_valid_loss=1.78378_ckpt.t7
+Validating
+
+Test set: Average loss: 1.7760, Accuracy: 282/1496 (18.85%)
+
+model saved to ./checkpoint/epoch_3_valid_loss=1.77603_ckpt.t7
+Validating
+
+Test set: Average loss: 1.7852, Accuracy: 335/1496 (22.39%)
+
+Loss was not improved, iteration 1
+Validating
+
+Test set: Average loss: 1.8380, Accuracy: 301/1496 (20.12%)
+
+Loss was not improved, iteration 2
+Validating
+
+Test set: Average loss: 1.7389, Accuracy: 393/1496 (26.27%)
+
+model saved to ./checkpoint/epoch_6_valid_loss=1.73887_ckpt.t7
+Validating
+
+Test set: Average loss: 1.7565, Accuracy: 382/1496 (25.53%)
+
+Loss was not improved, iteration 1
+Validating
+
+Test set: Average loss: 1.7209, Accuracy: 427/1496 (28.54%)
+
+model saved to ./checkpoint/epoch_8_valid_loss=1.72090_ckpt.t7
+Validating
+
+Test set: Average loss: 1.8108, Accuracy: 328/1496 (21.93%)
+
+Loss was not improved, iteration 1
+Validating
+
+Test set: Average loss: 1.7953, Accuracy: 333/1496 (22.26%)
+
+Loss was not improved, iteration 2
+Validating
+
+Test set: Average loss: 1.7440, Accuracy: 420/1496 (28.07%)
+
+Loss was not improved, iteration 3
+Validating
+
+Test set: Average loss: 1.7194, Accuracy: 336/1496 (22.46%)
+
+model saved to ./checkpoint/epoch_12_valid_loss=1.71944_ckpt.t7
+Validating
+
+Test set: Average loss: 1.7594, Accuracy: 338/1496 (22.59%)
+
+Loss was not improved, iteration 1
+Validating
+
+Test set: Average loss: 1.8102, Accuracy: 328/1496 (21.93%)
+
+Loss was not improved, iteration 2
+Validating
+
+Test set: Average loss: 1.7623, Accuracy: 411/1496 (27.47%)
+
+Loss was not improved, iteration 3
+Validating
+
+Test set: Average loss: 1.7649, Accuracy: 343/1496 (22.93%)
+
+Loss was not improved, iteration 4
+Validating
+
+Test set: Average loss: 1.7487, Accuracy: 385/1496 (25.74%)
+
+Loss was not improved, iteration 5
+Validating
+
+Test set: Average loss: 1.7174, Accuracy: 407/1496 (27.21%)
+
+model saved to ./checkpoint/epoch_18_valid_loss=1.71742_ckpt.t7
+Validating
+
+Test set: Average loss: 1.6899, Accuracy: 378/1496 (25.27%)
+
+model saved to ./checkpoint/epoch_19_valid_loss=1.68990_ckpt.t7
+Validating
+
+Test set: Average loss: 1.7381, Accuracy: 402/1496 (26.87%)
+
+Loss was not improved, iteration 1
+Validating
+
+Test set: Average loss: 1.7646, Accuracy: 344/1496 (22.99%)
+
+Loss was not improved, iteration 2
+Validating
+
+Test set: Average loss: 1.7889, Accuracy: 427/1496 (28.54%)
+
+Loss was not improved, iteration 3
+Validating
+
+Test set: Average loss: 1.7790, Accuracy: 400/1496 (26.74%)
+
+Loss was not improved, iteration 4
+Validating
+
+Test set: Average loss: 1.9522, Accuracy: 362/1496 (24.20%)
+
+Loss was not improved, iteration 5
+Validating
+
+Test set: Average loss: 1.8883, Accuracy: 363/1496 (24.26%)
+
+Loss was not improved, iteration 6
+Validating
+
+Test set: Average loss: 1.8269, Accuracy: 362/1496 (24.20%)
+
+Loss was not improved, iteration 7
+Validating
+
+Test set: Average loss: 1.9186, Accuracy: 291/1496 (19.45%)
+
+Loss was not improved, iteration 8
+Validating
+
+Test set: Average loss: 2.0112, Accuracy: 300/1496 (20.05%)
+
+Loss was not improved, iteration 9
+Validating
+
+Test set: Average loss: 1.9127, Accuracy: 318/1496 (21.26%)
+
+Loss was not improved, iteration 10
+Validating
+
+Test set: Average loss: 1.9032, Accuracy: 313/1496 (20.92%)
+
+Loss was not improved, iteration 11
+Validating
+
+Test set: Average loss: 1.7683, Accuracy: 400/1496 (26.74%)
+
+Loss was not improved, iteration 12
+Validating
+
+Test set: Average loss: 1.8143, Accuracy: 331/1496 (22.13%)
+
+Loss was not improved, iteration 13
+Validating
+
+Test set: Average loss: 1.8560, Accuracy: 355/1496 (23.73%)
+
+Loss was not improved, iteration 14
+Validating
+
+Test set: Average loss: 1.7982, Accuracy: 395/1496 (26.40%)
+
+Loss was not improved, iteration 15
+Validating
+
+Test set: Average loss: 1.9828, Accuracy: 344/1496 (22.99%)
+
+Loss was not improved, iteration 16
+Validating
+
+Test set: Average loss: 1.7862, Accuracy: 370/1496 (24.73%)
+
+Loss was not improved, iteration 17
+Validating
+
+Test set: Average loss: 1.8645, Accuracy: 413/1496 (27.61%)
+
+Loss was not improved, iteration 18
+Validating
+
+Test set: Average loss: 1.8662, Accuracy: 417/1496 (27.87%)
+
+Loss was not improved, iteration 19
+Validating
+
+Test set: Average loss: 1.8812, Accuracy: 370/1496 (24.73%)
+
+Loss was not improved, iteration 20
+Validating
+
+Test set: Average loss: 1.8559, Accuracy: 354/1496 (23.66%)
+
+Loss was not improved, iteration 21
+Validating
+
+Test set: Average loss: 2.0490, Accuracy: 336/1496 (22.46%)
+
+Loss was not improved, iteration 22
+Validating
+
+Test set: Average loss: 2.0789, Accuracy: 295/1496 (19.72%)
+
+Loss was not improved, iteration 23
+Validating
+
+Test set: Average loss: 1.9525, Accuracy: 268/1496 (17.91%)
+
+Loss was not improved, iteration 24
+Validating
+
+Test set: Average loss: 1.9518, Accuracy: 328/1496 (21.93%)
+
+Loss was not improved, iteration 25
+Validating
+
+Test set: Average loss: 2.1258, Accuracy: 396/1496 (26.47%)
+
+Loss was not improved, iteration 26
+Validating
+
+Test set: Average loss: 2.0054, Accuracy: 331/1496 (22.13%)
+
+Loss was not improved, iteration 27
+Validating
+
+Test set: Average loss: 1.9266, Accuracy: 288/1496 (19.25%)
+
+Loss was not improved, iteration 28
+Validating
+
+Test set: Average loss: 2.1390, Accuracy: 281/1496 (18.78%)
+
+Loss was not improved, iteration 29
+Validating
+
+Test set: Average loss: 1.9745, Accuracy: 405/1496 (27.07%)
+
+Loss was not improved, iteration 30
+Validating
+
+Test set: Average loss: 1.9441, Accuracy: 344/1496 (22.99%)
+
+Loss was not improved, iteration 31
+Validating
+
+Test set: Average loss: 2.0016, Accuracy: 316/1496 (21.12%)
+
+Loss was not improved, iteration 32
+Validating
+
+Test set: Average loss: 2.1458, Accuracy: 259/1496 (17.31%)
+
+Loss was not improved, iteration 33
+Validating
+
+Test set: Average loss: 1.9187, Accuracy: 390/1496 (26.07%)
+
+Loss was not improved, iteration 34
+Validating
+
+Test set: Average loss: 1.9912, Accuracy: 329/1496 (21.99%)
+
+Loss was not improved, iteration 35
+Validating
+
+Test set: Average loss: 2.0113, Accuracy: 278/1496 (18.58%)
+
+Loss was not improved, iteration 36
+Validating
+
+Test set: Average loss: 1.7836, Accuracy: 405/1496 (27.07%)
+
+Loss was not improved, iteration 37
+Validating
+
+Test set: Average loss: 1.9798, Accuracy: 280/1496 (18.72%)
+
+Loss was not improved, iteration 38
+Validating
+
+Test set: Average loss: 2.0840, Accuracy: 309/1496 (20.66%)
+
+Loss was not improved, iteration 39
+Validating
+
+Test set: Average loss: 1.8709, Accuracy: 350/1496 (23.40%)
+
+Loss was not improved, iteration 40
+Validating
+
+Test set: Average loss: 1.8920, Accuracy: 376/1496 (25.13%)
+
+Loss was not improved, iteration 41
+Validating
+
+Test set: Average loss: 1.9841, Accuracy: 359/1496 (24.00%)
+
+Loss was not improved, iteration 42
+Validating
+
+Test set: Average loss: 1.9679, Accuracy: 340/1496 (22.73%)
+
+Loss was not improved, iteration 43
+Validating
+
+Test set: Average loss: 1.8007, Accuracy: 384/1496 (25.67%)
+
+Loss was not improved, iteration 44
+Validating
+
+Test set: Average loss: 1.8081, Accuracy: 292/1496 (19.52%)
+
+Loss was not improved, iteration 45
+Validating
+
+Test set: Average loss: 1.9926, Accuracy: 326/1496 (21.79%)
+
+Loss was not improved, iteration 46
+Validating
+
+Test set: Average loss: 1.8666, Accuracy: 425/1496 (28.41%)
+
+Loss was not improved, iteration 47
+Validating
+
+Test set: Average loss: 1.7737, Accuracy: 478/1496 (31.95%)
+
+Loss was not improved, iteration 48
+Validating
+
+Test set: Average loss: 1.8805, Accuracy: 325/1496 (21.72%)
+
+Loss was not improved, iteration 49
+Validating
+
+Test set: Average loss: 1.8653, Accuracy: 309/1496 (20.66%)
+
+Loss was not improved, iteration 50
+No improvement for long. Stop training
+
+Test set: Average loss: 1.8155, Accuracy: 361/1553 (23.25%)
+

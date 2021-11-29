@@ -1,0 +1,123 @@
+[2021-11-29 10:28:03,007][run.py][line:109][INFO] start training!
+[2021-11-29 10:28:29,521][train.py][line:57][INFO] 
+Train set: Average loss: 0.9097, Accuracy: 7460/11155 (66.88%)
+
+[2021-11-29 10:28:29,521][train.py][line:58][INFO] finish training for epoch 0!
+[2021-11-29 10:28:33,464][train.py][line:97][INFO] 
+Validation set: Average loss: 0.6078, Accuracy: 1162/1496 (77.67%)
+
+[2021-11-29 10:28:59,834][train.py][line:57][INFO] 
+Train set: Average loss: 0.4956, Accuracy: 9264/11155 (83.05%)
+
+[2021-11-29 10:28:59,835][train.py][line:58][INFO] finish training for epoch 1!
+[2021-11-29 10:29:04,385][train.py][line:97][INFO] 
+Validation set: Average loss: 0.4397, Accuracy: 1260/1496 (84.22%)
+
+[2021-11-29 10:29:31,761][train.py][line:57][INFO] 
+Train set: Average loss: 0.3849, Accuracy: 9635/11155 (86.37%)
+
+[2021-11-29 10:29:31,762][train.py][line:58][INFO] finish training for epoch 2!
+[2021-11-29 10:29:36,079][train.py][line:97][INFO] 
+Validation set: Average loss: 0.4079, Accuracy: 1275/1496 (85.23%)
+
+[2021-11-29 10:30:03,189][train.py][line:57][INFO] 
+Train set: Average loss: 0.3205, Accuracy: 9890/11155 (88.66%)
+
+[2021-11-29 10:30:03,189][train.py][line:58][INFO] finish training for epoch 3!
+[2021-11-29 10:30:07,562][train.py][line:97][INFO] 
+Validation set: Average loss: 0.3306, Accuracy: 1322/1496 (88.37%)
+
+[2021-11-29 10:30:35,750][train.py][line:57][INFO] 
+Train set: Average loss: 0.2589, Accuracy: 10121/11155 (90.73%)
+
+[2021-11-29 10:30:35,750][train.py][line:58][INFO] finish training for epoch 4!
+[2021-11-29 10:30:39,931][train.py][line:97][INFO] 
+Validation set: Average loss: 0.3283, Accuracy: 1322/1496 (88.37%)
+
+[2021-11-29 10:31:06,772][train.py][line:57][INFO] 
+Train set: Average loss: 0.2207, Accuracy: 10289/11155 (92.24%)
+
+[2021-11-29 10:31:06,772][train.py][line:58][INFO] finish training for epoch 5!
+[2021-11-29 10:31:11,156][train.py][line:97][INFO] 
+Validation set: Average loss: 0.3065, Accuracy: 1337/1496 (89.37%)
+
+[2021-11-29 10:31:38,085][train.py][line:57][INFO] 
+Train set: Average loss: 0.1821, Accuracy: 10456/11155 (93.73%)
+
+[2021-11-29 10:31:38,086][train.py][line:58][INFO] finish training for epoch 6!
+[2021-11-29 10:31:41,850][train.py][line:97][INFO] 
+Validation set: Average loss: 0.2921, Accuracy: 1348/1496 (90.11%)
+
+[2021-11-29 10:32:08,129][train.py][line:57][INFO] 
+Train set: Average loss: 0.1532, Accuracy: 10554/11155 (94.61%)
+
+[2021-11-29 10:32:08,129][train.py][line:58][INFO] finish training for epoch 7!
+[2021-11-29 10:32:12,213][train.py][line:97][INFO] 
+Validation set: Average loss: 0.3169, Accuracy: 1346/1496 (89.97%)
+
+[2021-11-29 10:32:39,598][train.py][line:57][INFO] 
+Train set: Average loss: 0.1315, Accuracy: 10647/11155 (95.45%)
+
+[2021-11-29 10:32:39,598][train.py][line:58][INFO] finish training for epoch 8!
+[2021-11-29 10:32:43,777][train.py][line:97][INFO] 
+Validation set: Average loss: 0.3149, Accuracy: 1343/1496 (89.77%)
+
+[2021-11-29 10:33:10,697][train.py][line:57][INFO] 
+Train set: Average loss: 0.1101, Accuracy: 10719/11155 (96.09%)
+
+[2021-11-29 10:33:10,698][train.py][line:58][INFO] finish training for epoch 9!
+[2021-11-29 10:33:14,876][train.py][line:97][INFO] 
+Validation set: Average loss: 0.2960, Accuracy: 1349/1496 (90.17%)
+
+[2021-11-29 10:33:41,631][train.py][line:57][INFO] 
+Train set: Average loss: 0.0936, Accuracy: 10785/11155 (96.68%)
+
+[2021-11-29 10:33:41,632][train.py][line:58][INFO] finish training for epoch 10!
+[2021-11-29 10:33:45,227][train.py][line:97][INFO] 
+Validation set: Average loss: 0.3481, Accuracy: 1348/1496 (90.11%)
+
+[2021-11-29 10:34:11,198][train.py][line:57][INFO] 
+Train set: Average loss: 0.0793, Accuracy: 10864/11155 (97.39%)
+
+[2021-11-29 10:34:11,198][train.py][line:58][INFO] finish training for epoch 11!
+[2021-11-29 10:34:15,248][train.py][line:97][INFO] 
+Validation set: Average loss: 0.3408, Accuracy: 1351/1496 (90.31%)
+
+[2021-11-29 10:34:42,021][train.py][line:57][INFO] 
+Train set: Average loss: 0.0679, Accuracy: 10921/11155 (97.90%)
+
+[2021-11-29 10:34:42,021][train.py][line:58][INFO] finish training for epoch 12!
+[2021-11-29 10:34:45,975][train.py][line:97][INFO] 
+Validation set: Average loss: 0.3460, Accuracy: 1348/1496 (90.11%)
+
+[2021-11-29 10:35:12,495][train.py][line:57][INFO] 
+Train set: Average loss: 0.0569, Accuracy: 10963/11155 (98.28%)
+
+[2021-11-29 10:35:12,495][train.py][line:58][INFO] finish training for epoch 13!
+[2021-11-29 10:35:16,886][train.py][line:97][INFO] 
+Validation set: Average loss: 0.3612, Accuracy: 1342/1496 (89.71%)
+
+[2021-11-29 10:35:43,331][train.py][line:57][INFO] 
+Train set: Average loss: 0.0496, Accuracy: 10981/11155 (98.44%)
+
+[2021-11-29 10:35:43,331][train.py][line:58][INFO] finish training for epoch 14!
+[2021-11-29 10:35:47,687][train.py][line:97][INFO] 
+Validation set: Average loss: 0.3235, Accuracy: 1357/1496 (90.71%)
+
+[2021-11-29 10:36:14,126][train.py][line:57][INFO] 
+Train set: Average loss: 0.0501, Accuracy: 10971/11155 (98.35%)
+
+[2021-11-29 10:36:14,126][train.py][line:58][INFO] finish training for epoch 15!
+[2021-11-29 10:36:18,288][train.py][line:97][INFO] 
+Validation set: Average loss: 0.3303, Accuracy: 1353/1496 (90.44%)
+
+[2021-11-29 10:36:45,435][train.py][line:57][INFO] 
+Train set: Average loss: 0.0408, Accuracy: 11021/11155 (98.80%)
+
+[2021-11-29 10:36:45,436][train.py][line:58][INFO] finish training for epoch 16!
+[2021-11-29 10:36:49,732][train.py][line:97][INFO] 
+Validation set: Average loss: 0.3506, Accuracy: 1358/1496 (90.78%)
+
+[2021-11-29 10:36:54,072][train.py][line:94][INFO] 
+Test set: Average loss: 0.4279, Accuracy: 1391/1553 (89.57%)
+
